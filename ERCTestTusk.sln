@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERCTestTusk", "ERCTestTusk\ERCTestTusk.csproj", "{4121E44B-0E41-45E5-BD56-211FF8E7DBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4121E44B-0E41-45E5-BD56-211FF8E7DBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4121E44B-0E41-45E5-BD56-211FF8E7DBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4121E44B-0E41-45E5-BD56-211FF8E7DBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4121E44B-0E41-45E5-BD56-211FF8E7DBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9420D82B-9451-4A19-83FC-38D75841F7AD}
+	EndGlobalSection
+EndGlobal
